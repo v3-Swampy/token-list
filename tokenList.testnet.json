@@ -9,6 +9,7 @@
   "tags": {},
   "tokens": [
     {
+      "chainId": 71,
       "address": "CFX",
       "name": "Conflux Network",
       "symbol": "CFX",
@@ -16,6 +17,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
     },
     {
+      "chainId": 71,
       "address": "0xcd71270f82f319e0498ff98af8269c3f0d547c65",
       "name": "Ethereum Token",
       "symbol": "ETH",
@@ -23,6 +25,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwh8u88f8nchnfxw1fewbnypwnreamrm6ez17ucze.png"
     },
     {
+      "chainId": 71,
       "address": "0x49916ba65d0048c4bbb0a786a527d98d10a1cd2d",
       "name": "Swappi Token",
       "symbol": "PPI",
@@ -30,6 +33,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaavtjgz9s8jf8yg9hghwcjkwwbp167ay5ynubph265.png"
     },
     {
+      "chainId": 71,
       "address": "0x7d682e65efc5c13bf4e394b8f376c48e6bae0355",
       "name": "Tether USD",
       "symbol": "USDT",
@@ -37,6 +41,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
     },
     {
+      "chainId": 71,
       "address": "0x54593e02c39aeff52b166bd036797d2b1478de8d",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
@@ -44,6 +49,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaatzjzeh221fzx9mj1sm50sge65b4fu05azsr51n8p.png"
     },
     {
+      "chainId": 71,
       "address": "0x48EE76131e70762DB59a37e6008ccE082805aB00",
       "name": "Nucleon Governance Token",
       "symbol": "NUT",
@@ -51,6 +57,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9bw9x3rcah0pj7j7yvn042na25jsx8hpf19ma3zp.png"
     },
     {
+      "chainId": 71,
       "address": "0x273191f4d8878226023ceb1EB88B5dE44854b111",
       "name": "Goledo Token",
       "symbol": "GOL",
@@ -58,6 +65,7 @@
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
     },
     {
+      "chainId": 71,
       "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
       "name": "Wrapper CFX",
       "symbol": "WCFX",
