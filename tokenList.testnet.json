@@ -71,6 +71,14 @@
       "symbol": "WCFX",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0x147041fbdae3d3d3382103adcccd7bea34ef4c61",
+      "name": "vSwap Token",
+      "symbol": "VST",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
     }
   ]
 }
