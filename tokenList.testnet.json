@@ -63,6 +63,14 @@
       "symbol": "GOL",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
+      "name": "Wrapper CFX",
+      "symbol": "WCFX",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
     }
   ]
 }
