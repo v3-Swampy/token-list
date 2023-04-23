@@ -86,7 +86,7 @@
       "name": "vSwap Pair Test Token 1",
       "symbol": "vSPT1",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
     },
     {
       "chainId": 71,
@@ -94,7 +94,7 @@
       "name": "vSwap Pair Test Token 2",
       "symbol": "vSPT2",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
     }
   ]
 }
