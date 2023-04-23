@@ -107,8 +107,8 @@
     {
       "chainId": 71,
       "address": "0xd6a432c616ce42aa15e32ac5c0998112accae76a",
-      "name": "vSwap Pair Test Token 3",
-      "symbol": "vSPT3",
+      "name": "FansCoin",
+      "symbol": "FC",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
     }
