@@ -95,6 +95,14 @@
       "symbol": "vSPT2",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0xdCE293D132e6a2B195637C60538B3B8bc89E27C0",
+      "name": "vSwap Pair Test Token 3",
+      "symbol": "vSPT3",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
     }
   ]
 }
