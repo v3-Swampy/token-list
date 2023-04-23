@@ -79,6 +79,23 @@
       "symbol": "VST",
       "decimals": 18,
       "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+    },
+    ,
+    {
+      "chainId": 71,
+      "address": "0x8e0e9bE3cB8D565fE6fec507e3539bb49395A94F",
+      "name": "vSwap Pair Test Token 1",
+      "symbol": "vSPT1",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0x8B0493b7931c3Ed7C8CB92860d625Ca9D56a451c",
+      "name": "vSwap Pair Test Token 2",
+      "symbol": "vSPT2",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
     }
   ]
 }
