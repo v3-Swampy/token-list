@@ -135,6 +135,38 @@
       "symbol": "AET4",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
-    } 
+    },
+    {
+      "chainId": 71,
+      "address": "0x98e82b5461aF143b8acD94cdF1db50F36e22AEa3",
+      "name": "YAMI Beans Red",
+      "symbol": "YBR",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x1D178ddaD07257b0d4503c0a030f5bae49b0e5a8",
+      "name": "YAMI Beans Yellow",
+      "symbol": "YBR",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x0712Ca3B38e99F735F18696D278dcB7372c83cef",
+      "name": "YAMI Beans Purple",
+      "symbol": "YBP",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x13153A1ce698A681666490672E35812C04989403",
+      "name": "YAMI Beans Green",
+      "symbol": "YBG",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
+    }
   ]
 }
