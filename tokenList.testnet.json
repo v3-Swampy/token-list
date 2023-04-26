@@ -106,14 +106,6 @@
     },
     {
       "chainId": 71,
-      "address": "0xd6a432c616ce42aa15e32ac5c0998112accae76a",
-      "name": "FansCoin",
-      "symbol": "FC",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
-    },
-    {
-      "chainId": 71,
       "address": "0xaF30D3840dBAc5011AFD1479C0f02ec6359Cd26C",
       "name": "Andy's exclusive token1",
       "symbol": "AET1",
