@@ -111,6 +111,38 @@
       "symbol": "FC",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
-    }
+    },
+    {
+      "chainId": 71,
+      "address": "0xaF30D3840dBAc5011AFD1479C0f02ec6359Cd26C",
+      "name": "Andy's exclusive token1",
+      "symbol": "AET1",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x32A9735E96d1Fd9782CcCDA146188Fb85B1De1c7",
+      "name": "Andy's exclusive token2",
+      "symbol": "AET2",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x598D522633b5D6eCaC31E8C274e87dc15e51C6f7",
+      "name": "Andy's exclusive token3",
+      "symbol": "AET3",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0xd9A35281889E258E1836feD23cE27Cb88e576232",
+      "name": "Andy's exclusive token4",
+      "symbol": "AET4",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
+    } 
   ]
 }
