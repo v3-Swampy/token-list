@@ -1,6 +1,6 @@
 {
   "name": "V3 token List",
-  "timestamp": "2023-03-23T06:27:18.892Z",
+  "timestamp": "2023-04-28T06:27:18.892Z",
   "version": {
     "major": 0,
     "minor": 0,
@@ -74,7 +74,7 @@
     },
     {
       "chainId": 71,
-      "address": "0xb0a519beb026590c191356b68b264131402a333f",
+      "address": "0x6fcc496d6865c268e1c04f04ca746a091bf7817a",
       "name": "vSwap Token",
       "symbol": "VST",
       "decimals": 18,
