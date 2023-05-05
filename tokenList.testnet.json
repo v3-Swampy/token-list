@@ -167,6 +167,14 @@
       "symbol": "YBG",
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0xd6a432c616ce42aa15e32ac5c0998112accae76a",
+      "name": "Fanscoin",
+      "symbol": "FC",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
     }
   ]
 }
