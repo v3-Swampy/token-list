@@ -26,14 +26,6 @@
     },
     {
       "chainId": 71,
-      "address": "0x49916ba65d0048c4bbb0a786a527d98d10a1cd2d",
-      "name": "Swappi Token",
-      "symbol": "PPI",
-      "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaavtjgz9s8jf8yg9hghwcjkwwbp167ay5ynubph265.png"
-    },
-    {
-      "chainId": 71,
       "address": "0x7d682e65efc5c13bf4e394b8f376c48e6bae0355",
       "name": "Tether USD",
       "symbol": "USDT",
@@ -42,139 +34,27 @@
     },
     {
       "chainId": 71,
-      "address": "0x54593e02c39aeff52b166bd036797d2b1478de8d",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaatzjzeh221fzx9mj1sm50sge65b4fu05azsr51n8p.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x48EE76131e70762DB59a37e6008ccE082805aB00",
-      "name": "Nucleon Governance Token",
-      "symbol": "NUT",
-      "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9bw9x3rcah0pj7j7yvn042na25jsx8hpf19ma3zp.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x273191f4d8878226023ceb1EB88B5dE44854b111",
-      "name": "Goledo Token",
-      "symbol": "GOL",
-      "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwnngzd52ztm8m32j9c3hekyn8njcgsrjg4p7yzea.png"
-    },
-    {
-      "chainId": 71,
       "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
       "name": "Wrapper CFX",
       "symbol": "WCFX",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+      "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/built-in-network-icons/cfx.svg"
     },
     {
       "chainId": 71,
-      "address": "0x2c0230516cfcddcd2a5256400c4593deaa243259",
-      "name": "vSwap Token",
-      "symbol": "VST",
+      "address": "0x4618f7564266986826839ae1b3cc4ea90ab06810",
+      "name": "vSwap Testnet Token 01",
+      "symbol": "VSTNT1",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+      "logoURI": ""
     },
     {
       "chainId": 71,
-      "address": "0x8e0e9bE3cB8D565fE6fec507e3539bb49395A94F",
-      "name": "vSwap Pair Test Token 1",
-      "symbol": "vSPT1",
+      "address": "0x036da2c72118d65b4274d57552654bedce56a590",
+      "name": "vSwap Testnet Token 02",
+      "symbol": "VSTNT2",
       "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
-    },
-    {
-      "chainId": 71,
-      "address": "0x8B0493b7931c3Ed7C8CB92860d625Ca9D56a451c",
-      "name": "vSwap Pair Test Token 2",
-      "symbol": "vSPT2",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
-    },
-    {
-      "chainId": 71,
-      "address": "0xdCE293D132e6a2B195637C60538B3B8bc89E27C0",
-      "name": "vSwap Pair Test Token 3",
-      "symbol": "vSPT3",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/dogebonk-dobo-logo.svg"
-    },
-    {
-      "chainId": 71,
-      "address": "0xaF30D3840dBAc5011AFD1479C0f02ec6359Cd26C",
-      "name": "Andy's exclusive token1",
-      "symbol": "AET1",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x32A9735E96d1Fd9782CcCDA146188Fb85B1De1c7",
-      "name": "Andy's exclusive token2",
-      "symbol": "AET2",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x598D522633b5D6eCaC31E8C274e87dc15e51C6f7",
-      "name": "Andy's exclusive token3",
-      "symbol": "AET3",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0xd9A35281889E258E1836feD23cE27Cb88e576232",
-      "name": "Andy's exclusive token4",
-      "symbol": "AET4",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x98e82b5461aF143b8acD94cdF1db50F36e22AEa3",
-      "name": "YAMI Beans Red",
-      "symbol": "YBR",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x1D178ddaD07257b0d4503c0a030f5bae49b0e5a8",
-      "name": "YAMI Beans Yellow",
-      "symbol": "YBY",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x0712Ca3B38e99F735F18696D278dcB7372c83cef",
-      "name": "YAMI Beans Purple",
-      "symbol": "YBP",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0x13153A1ce698A681666490672E35812C04989403",
-      "name": "YAMI Beans Green",
-      "symbol": "YBG",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
-    },
-    {
-      "chainId": 71,
-      "address": "0xd6a432c616ce42aa15e32ac5c0998112accae76a",
-      "name": "Fanscoin",
-      "symbol": "FC",
-      "decimals": 18,
-      "logoURI": "https://cryptologos.cc/logos/bean-cash-bitb-logo.png"
+      "logoURI": ""
     }
   ]
 }
