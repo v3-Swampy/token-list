@@ -46,7 +46,7 @@
       "name": "vSwap Testnet Token 01",
       "symbol": "VSTNT1",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg"
     },
     {
       "chainId": 71,
@@ -54,7 +54,7 @@
       "name": "vSwap Testnet Token 02",
       "symbol": "VSTNT2",
       "decimals": 18,
-      "logoURI": ""
+      "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg"
     }
   ]
 }
