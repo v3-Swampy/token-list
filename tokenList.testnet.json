@@ -34,6 +34,14 @@
     },
     {
       "chainId": 71,
+      "address": "0x349298b0e20df67defd6efb8f3170cf4a32722ef",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
+    },
+    {
+      "chainId": 71,
       "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
       "name": "Wrapper CFX",
       "symbol": "WCFX",
