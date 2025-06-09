@@ -22,7 +22,7 @@
       "name": "Ethereum Token",
       "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwh8u88f8nchnfxw1fewbnypwnreamrm6ez17ucze.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwh8u88f8nchnfxw1fewbnypwnreamrm6ez17ucze.png"
     },
     {
       "chainId": 71,
@@ -30,7 +30,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
     },
     {
       "chainId": 71,
@@ -38,7 +38,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
     },
     {
       "chainId": 71,
@@ -70,7 +70,7 @@
       "name": "vSwap Token",
       "symbol": "VST",
       "decimals": 18,
-      "logoURI": "https://scan-icons.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
     }
   ]
 }
