@@ -71,6 +71,14 @@
       "symbol": "VST",
       "decimals": 18,
       "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
-    }
+    },
+    {
+      "chainId": 71,
+      "address": "0x54593e02c39aeff52b166bd036797d2b1478de8d",
+      "name": "BTC Token",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "ttps://scanglobal.oss-cn-hongkong.aliyuncs.com/ma…et/0x1f545487c62e5acfea45dcadd9c627361d1616d8.png"
+    },
   ]
 }
