@@ -43,7 +43,7 @@
     {
       "chainId": 71,
       "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
-      "name": "Wrapper CFX",
+      "name": "Wrapped CFX",
       "symbol": "WCFX",
       "decimals": 18,
       "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/built-in-network-icons/cfx.svg"
@@ -75,7 +75,7 @@
     {
       "chainId": 71,
       "address": "0x54593e02c39aeff52b166bd036797d2b1478de8d",
-      "name": "Wrapper BTC",
+      "name": "Wrapped BTC",
       "symbol": "BTC",
       "decimals": 18,
       "logoURI": "ttps://scanglobal.oss-cn-hongkong.aliyuncs.com/ma…et/0x1f545487c62e5acfea45dcadd9c627361d1616d8.png"
