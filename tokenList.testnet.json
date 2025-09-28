@@ -1,0 +1,84 @@
+{
+  "name": "V3 token List",
+  "timestamp": "2023-05-08T06:27:18.892Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 71,
+      "address": "CFX",
+      "name": "Conflux Network",
+      "symbol": "CFX",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/built-in-network-icons/cfx.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0xcd71270f82f319e0498ff98af8269c3f0d547c65",
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aacwh8u88f8nchnfxw1fewbnypwnreamrm6ez17ucze.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x7d682e65efc5c13bf4e394b8f376c48e6bae0355",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x349298b0e20df67defd6efb8f3170cf4a32722ef",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aaby0h59rbm4a85b7ttrekjc736mdtvcdsjy17ezbn3.png"
+    },
+    {
+      "chainId": 71,
+      "address": "0x2ed3dddae5b2f321af0806181fbfa6d049be47d8",
+      "name": "Wrapped CFX",
+      "symbol": "WCFX",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/built-in-network-icons/cfx.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0x4618f7564266986826839ae1b3cc4ea90ab06810",
+      "name": "vSwap Testnet Token 01",
+      "symbol": "VSTNT1",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0x036da2c72118d65b4274d57552654bedce56a590",
+      "name": "vSwap Testnet Token 02",
+      "symbol": "VSTNT2",
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/dogecoin-doge-logo.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0xfe06af71b16edb2734fc89216856792ce59c6680",
+      "name": "vSwap Token",
+      "symbol": "VST",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/cfx%3Aacg158kvr8zanb1bs048ryb6rtrhr283ma70vz70tx.svg"
+    },
+    {
+      "chainId": 71,
+      "address": "0x54593e02c39aeff52b166bd036797d2b1478de8d",
+      "name": "Wrapped BTC",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x1f545487c62e5acfea45dcadd9c627361d1616d8.png"
+    }
+  ]
+}
