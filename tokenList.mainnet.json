@@ -1,0 +1,36 @@
+{
+  "name": "V3 token List",
+  "timestamp": "2025-09-28T06:27:18.892Z",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "tokens": [
+    {
+      "chainId": 1030,
+      "address": "CFX",
+      "name": "Conflux Network",
+      "symbol": "CFX",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/built-in-network-icons/cfx.svg"
+    },
+    {
+      "chainId": 1030,
+      "address": "0xfe97e85d13abd9c1c33384e796f10b73905637ce",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e",
+      "name": "AxCNH",
+      "symbol": "AxCNH",
+      "decimals": 6,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e.jpeg"
+    }
+  ]
+}
