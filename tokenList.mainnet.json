@@ -14,7 +14,7 @@
       "name": "Conflux Network",
       "symbol": "CFX",
       "decimals": 18,
-      "logoURI": "https://cdn.jsdelivr.net/gh/Conflux-Chain/helios@dev/packages/built-in-network-icons/cfx.svg"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b.png"
     },
     {
       "chainId": 1030,
@@ -22,7 +22,15 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/net1030%3Aad9kt4c7csz7xusdgscstf1vbr33azv132611febg1.png"
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xfe97e85d13abd9c1c33384e796f10b73905637ce.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b",
+      "name": "Wrapped CFX",
+      "symbol": "WCFX",
+      "decimals": 18,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b.png"
     },
     {
       "chainId": 1030,
