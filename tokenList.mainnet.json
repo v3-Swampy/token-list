@@ -26,6 +26,14 @@
     },
     {
       "chainId": 1030,
+      "address": "0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff",
+      "name": "USDT0",
+      "symbol": "USDT0",
+      "decimals": 6,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0xaf37e8b6c9ed7f6318979f56fc287d76c30847ff.png"
+    },
+    {
+      "chainId": 1030,
       "address": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b",
       "name": "Wrapped CFX",
       "symbol": "WCFX",
