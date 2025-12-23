@@ -47,6 +47,14 @@
       "symbol": "AxCNH",
       "decimals": 6,
       "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x70bfd7f7eadf9b9827541272589a6b2bb760ae2e.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x47a365e29697c700c75d58936b3d93a8a20a43c9",
+      "name": "Aussie Dollar Token",
+      "symbol": "AUDX",
+      "decimals": 18,
+      "logoURI": "https://scanchina.oss-cn-beijing.aliyuncs.com/mainnet/0x47a365e29697c700c75d58936b3d93a8a20a43c9.png"
     }
   ]
 }
