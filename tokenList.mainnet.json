@@ -55,6 +55,14 @@
       "symbol": "AUDX",
       "decimals": 18,
       "logoURI": "https://scanchina.oss-cn-beijing.aliyuncs.com/mainnet/0x47a365e29697c700c75d58936b3d93a8a20a43c9.png"
+    },
+    {
+      "chainId": 1030,
+      "address": "0x22179d83c3bb949ec2382d886f68945d89d6582f",
+      "name": "cfxA7A5",
+      "symbol": "cfxA7A5",
+      "decimals": 6,
+      "logoURI": "https://scanglobal.oss-cn-hongkong.aliyuncs.com/mainnet/0x22179d83c3bb949ec2382d886f68945d89d6582f.png"
     }
   ]
 }
